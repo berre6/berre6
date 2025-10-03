@@ -4,7 +4,7 @@ I have hands-on experience with HTML and CSS, building a solid foundation in web
 
 ## 🎯 My Goals
 
-- 🎓 Study Computer Engineering at university  
+- 🎓 Graduate Computer Engineering at university  
 - 💻 Contribute to open-source projects  
 - 🚀 Develop my own applications and share them with others  
 - 📚 Keep learning and improving my programming skills every day  
