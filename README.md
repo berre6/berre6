@@ -28,7 +28,7 @@ I'm currently focused on improving my software development skills and building p
 
 ### 📫 Connect with me
 
-[LinkedIn](www.linkedin.com/in/berreyılmaz063)
+[LinkedIn](https://www.linkedin.com/in/berrey%C4%B1lmaz063/)
 
   
 
