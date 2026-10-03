@@ -1,33 +1,34 @@
- Hi I'm Berre 👾
-  A passionate computer engineer student 🖥️
-I have hands-on experience with HTML and CSS, building a solid foundation in web development, and have worked with C programming, which strengthened my understanding of computer science fundamentals such as memory management, algorithms, and data structures. Currently, I am expanding my skills in Python, SQL and C# working on projects that involve automation and data management.
+# Hi, I'm Berre 👋
 
-## 🎯 My Goals
+🎓 Computer Engineering Student
+💻 Interested in Software Development, Backend & Artificial Intelligence
 
-- 🎓 Graduate Computer Engineering at university  
-- 💻 Contribute to open-source projects  
-- 🚀 Develop my own applications and share them with others  
-- 📚 Keep learning and improving my programming skills every day  
-  
- 
- ## 🚀 Working on..
+I'm currently focused on improving my software development skills and building practical projects while exploring different areas of AI and machine learning.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/> 
+### 🛠️ Technologies
 
-## 📊 GitHub Statistics 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=radical)
+* **Languages:** Python, C, C#, Java, JavaScript
+* **Web:** HTML, CSS
+* **Database:** SQL
+* **Currently learning:** Python, SQL, Backend Development & Machine Learning
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=radical)
+### 🚀 What I'm working on
 
+* Strengthening my software engineering fundamentals
+* Building practical projects with Python
+* Learning backend development and APIs
+* Exploring data science, machine learning and AI
 
+### 🎯 Goals
 
+* Build real-world software projects
+* Develop strong backend and AI skills
+* Gain professional experience through internships
+* Continuously learn and improve as a software engineer
 
+### 📫 Connect with me
 
-  🌱 "Experience is the name everyone gives to their mistakes."
+[LinkedIn](www.linkedin.com/in/berreyılmaz063)
 
   
 
